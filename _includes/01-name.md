@@ -1,2 +1,2 @@
-# <h1> Title
+# Title
 Message 
